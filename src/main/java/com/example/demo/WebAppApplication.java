@@ -19,12 +19,12 @@ public class WebAppApplication extends SpringBootServletInitializer {
         SpringApplication.run(WebAppApplication.class, args);
     }
 
-    @RestController
-    public static class WebAppController {
+    // @RestController
+    // public static class WebAppController {
 
-        @GetMapping("/hello")
-        public String hello() {
-            return "<h1 style=\"color: hotpink; font-size: 40px; font: cursive;\"> Congratulations! You've successfully implemented the CI/CD pipeline and deployed a Java web application to AWS EC2 using Docker!</h1>";
-        }
-    }
+    //     @GetMapping("/hello")
+    //     public String hello() {
+    //         return "<h1 style=\"color: hotpink; font-size: 40px; font: cursive;\"> Congratulations! You've successfully implemented the CI/CD pipeline and deployed a Java web application to AWS EC2 using Docker!</h1>";
+    //     }
+    // }
 }

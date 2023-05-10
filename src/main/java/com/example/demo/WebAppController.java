@@ -11,6 +11,7 @@ public class WebAppController {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "<h1 style=\"color: hotpink; font-size: 40px; font: cursive;\">Hello, World </h1>";
+		return "<h1 style=\"color: hotpink; font-size: 40px; font: cursive;\">Hello, World you've successfully implemented the CI/CD pipeline 
+		and accomplished this project! Congratulations! </h1>";
 	} 
 }

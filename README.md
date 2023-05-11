@@ -5,6 +5,9 @@
 
 ### 🔗 [Follow this Article to create CI/CD pipeline](https://mdghousedevopsjourney.hashnode.dev/java-application-with-an-automated-cicd-pipeline)
 
+### Project inspired by:
+
+https://github.com/palakbhawsar98/DevOps-CI-CD
 
 #
 

@@ -5,6 +5,7 @@
 
 ### 🔗 [Follow this Article to create CI/CD pipeline](https://mdghousedevopsjourney.hashnode.dev/java-application-with-an-automated-cicd-pipeline)
 
+
 #
 
-![image](https://user-images.githubusercontent.com/69889600/226805372-77f696e3-ad90-45a6-8a71-42fcc5ce821b.png)
+![pipe](https://github.com/smghouse97/Devops-CI-CD/assets/96450577/f17050c7-32c2-405b-b504-bdf693d1b834)
